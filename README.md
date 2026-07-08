@@ -4,9 +4,9 @@
 
     The Breast Cancer Analysis Dashboard is an interactive Power BI dashboard developed to analyze breast cancer patient data. The dashboard provides insights into patient demographics, survival status, tumour stages, histology types, surgery trends, and age distribution. It enables healthcare professionals and analysts to explore the dataset through interactive visualizations and filters.
 
-    📷 Dashboard Preview
+📷 Dashboard Preview
 
-(Upload your dashboard screenshot in the repository and rename it as Dashboard.png.)
+https://drive.google.com/file/d/1eQLMyZHipxuvgcoPMWt_cAzY8P5crDMe/view?usp=drive_link
 
 🎯 Objective
 
