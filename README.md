@@ -88,3 +88,5 @@ Users can filter the dashboard using:
     Data Visualization Best Practices
     Healthcare Data Analytics
 
+Contact :- Masharat Mujavar Aspiring Data Analyst Skilled in Power BI, SQL, Excel, Python Linkedin Profile - www.linkedin.com/in/masharat-mujavar-analytics Gmail Id - masaratmujavar09@gmail.com
+
